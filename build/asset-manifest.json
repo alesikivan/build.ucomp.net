@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8442846.css",
-    "main.js": "/static/js/main.97f723e9.js",
+    "main.css": "/static/css/main.d3f695f2.css",
+    "main.js": "/static/js/main.eaec0f0a.js",
     "static/media/city.svg": "/static/media/city.9135f7c8d6cb20e64ee75963303696fb.svg",
+    "static/media/philipp2.png": "/static/media/philipp2.b6b0d8ffeeff895e6c92.png",
+    "static/media/Chinmay.jpg": "/static/media/Chinmay.e16eeddf621d7bf3ff21.jpg",
+    "static/media/picture-for-web.png": "/static/media/picture-for-web.e2cf34011a56ef8d2123.png",
     "static/media/cityCompressed.jpeg": "/static/media/cityCompressed.45ed5c38bd1d4f650e64.jpeg",
+    "static/media/Shivam.png": "/static/media/Shivam.485114ad57e87790fe3f.png",
     "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
@@ -11,7 +15,9 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
     "static/media/logo2.svg": "/static/media/logo2.c395d51558531dca1f2a15134ee2ff97.svg",
     "static/media/team.svg": "/static/media/team.e5a972cb7da3c7cce3a97c7d951b3dcd.svg",
+    "static/media/Chaopgui2.png": "/static/media/Chaopgui2.f8ae51e89737817917f2.png",
     "static/media/background.jpeg": "/static/media/background.083a478c13bacef1d7b6.jpeg",
+    "static/media/maarten31.jpg": "/static/media/maarten31.93bce4ef2e09d30a79c3.jpg",
     "static/media/phone.svg": "/static/media/phone.53e86693a09f313ea94bc3b4c76d5479.svg",
     "static/media/success.svg": "/static/media/success.54232c1580b948990fadc3b2b77c3a6b.svg",
     "static/media/search.svg": "/static/media/search.35b7856e21ae9eb874db.svg",
@@ -29,11 +35,11 @@
     "static/media/papers.svg": "/static/media/papers.6fe52ff40cb61164aed12d6ab53e4ed7.svg",
     "static/media/close.svg": "/static/media/close.527d3ad3a9e6bb5d557be881a73008a1.svg",
     "index.html": "/index.html",
-    "main.e8442846.css.map": "/static/css/main.e8442846.css.map",
-    "main.97f723e9.js.map": "/static/js/main.97f723e9.js.map"
+    "main.d3f695f2.css.map": "/static/css/main.d3f695f2.css.map",
+    "main.eaec0f0a.js.map": "/static/js/main.eaec0f0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8442846.css",
-    "static/js/main.97f723e9.js"
+    "static/css/main.d3f695f2.css",
+    "static/js/main.eaec0f0a.js"
   ]
 }
