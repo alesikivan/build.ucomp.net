@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3f695f2.css",
-    "main.js": "/static/js/main.eaec0f0a.js",
+    "main.css": "/static/css/main.900e08ef.css",
+    "main.js": "/static/js/main.525d27bf.js",
     "static/media/city.svg": "/static/media/city.9135f7c8d6cb20e64ee75963303696fb.svg",
     "static/media/philipp2.png": "/static/media/philipp2.b6b0d8ffeeff895e6c92.png",
     "static/media/Chinmay.jpg": "/static/media/Chinmay.e16eeddf621d7bf3ff21.jpg",
@@ -35,11 +35,11 @@
     "static/media/papers.svg": "/static/media/papers.6fe52ff40cb61164aed12d6ab53e4ed7.svg",
     "static/media/close.svg": "/static/media/close.527d3ad3a9e6bb5d557be881a73008a1.svg",
     "index.html": "/index.html",
-    "main.d3f695f2.css.map": "/static/css/main.d3f695f2.css.map",
-    "main.eaec0f0a.js.map": "/static/js/main.eaec0f0a.js.map"
+    "main.900e08ef.css.map": "/static/css/main.900e08ef.css.map",
+    "main.525d27bf.js.map": "/static/js/main.525d27bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3f695f2.css",
-    "static/js/main.eaec0f0a.js"
+    "static/css/main.900e08ef.css",
+    "static/js/main.525d27bf.js"
   ]
 }
