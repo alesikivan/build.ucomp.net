@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.900e08ef.css",
-    "main.js": "/static/js/main.525d27bf.js",
+    "main.css": "/static/css/main.16ea51c5.css",
+    "main.js": "/static/js/main.084927d4.js",
     "static/media/city.svg": "/static/media/city.9135f7c8d6cb20e64ee75963303696fb.svg",
     "static/media/philipp2.png": "/static/media/philipp2.b6b0d8ffeeff895e6c92.png",
     "static/media/Chinmay.jpg": "/static/media/Chinmay.e16eeddf621d7bf3ff21.jpg",
@@ -30,16 +30,17 @@
     "static/media/car.svg": "/static/media/car.97b9e3302f9cab7bfd54e5c31422d853.svg",
     "static/media/taxi.svg": "/static/media/taxi.b52d51605343fa4d0e64f4e1bb7154e3.svg",
     "static/media/study.svg": "/static/media/study.2b0a86898f677676bc11431c11200c0c.svg",
+    "static/media/sorting.svg": "/static/media/sorting.b47dbcb62b0bdd5bf5147d202ab8fbb8.svg",
     "static/media/smartCity.svg": "/static/media/smartCity.7340161a1bdb40aa281a630f5dc61744.svg",
     "static/media/menu.svg": "/static/media/menu.fc7be061e084a9fd4f742e3ea74dcd8d.svg",
     "static/media/papers.svg": "/static/media/papers.6fe52ff40cb61164aed12d6ab53e4ed7.svg",
     "static/media/close.svg": "/static/media/close.527d3ad3a9e6bb5d557be881a73008a1.svg",
     "index.html": "/index.html",
-    "main.900e08ef.css.map": "/static/css/main.900e08ef.css.map",
-    "main.525d27bf.js.map": "/static/js/main.525d27bf.js.map"
+    "main.16ea51c5.css.map": "/static/css/main.16ea51c5.css.map",
+    "main.084927d4.js.map": "/static/js/main.084927d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.900e08ef.css",
-    "static/js/main.525d27bf.js"
+    "static/css/main.16ea51c5.css",
+    "static/js/main.084927d4.js"
   ]
 }
