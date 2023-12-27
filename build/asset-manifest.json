@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1674a70b.css",
-    "main.js": "/static/js/main.084927d4.js",
+    "main.css": "/static/css/main.6f9e5c93.css",
+    "main.js": "/static/js/main.a830198f.js",
     "static/media/city.svg": "/static/media/city.9135f7c8d6cb20e64ee75963303696fb.svg",
     "static/media/philipp2.png": "/static/media/philipp2.b6b0d8ffeeff895e6c92.png",
     "static/media/Chinmay.jpg": "/static/media/Chinmay.e16eeddf621d7bf3ff21.jpg",
@@ -23,6 +23,7 @@
     "static/media/search.svg": "/static/media/search.35b7856e21ae9eb874db.svg",
     "static/media/hierarchical.svg": "/static/media/hierarchical.4531f3d4b598541db502f1a6818da89d.svg",
     "static/media/support.svg": "/static/media/support.0bd99d7bbed52ce6cdbfea6c6f45ebdb.svg",
+    "static/media/link.svg": "/static/media/link.53a3c5cde0388e3a1474c95e3ef3aa9f.svg",
     "static/media/preview.svg": "/static/media/preview.b842a4562f4273ee26ab66a5894a2a58.svg",
     "static/media/location.svg": "/static/media/location.23c4dacc44a71cae388ace345711dc08.svg",
     "static/media/email.svg": "/static/media/email.5c2b12d8a7bdb8256d4728dce4d1f3bf.svg",
@@ -36,11 +37,11 @@
     "static/media/papers.svg": "/static/media/papers.6fe52ff40cb61164aed12d6ab53e4ed7.svg",
     "static/media/close.svg": "/static/media/close.527d3ad3a9e6bb5d557be881a73008a1.svg",
     "index.html": "/index.html",
-    "main.1674a70b.css.map": "/static/css/main.1674a70b.css.map",
-    "main.084927d4.js.map": "/static/js/main.084927d4.js.map"
+    "main.6f9e5c93.css.map": "/static/css/main.6f9e5c93.css.map",
+    "main.a830198f.js.map": "/static/js/main.a830198f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1674a70b.css",
-    "static/js/main.084927d4.js"
+    "static/css/main.6f9e5c93.css",
+    "static/js/main.a830198f.js"
   ]
 }
