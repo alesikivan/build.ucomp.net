@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f9e5c93.css",
-    "main.js": "/static/js/main.a830198f.js",
+    "main.css": "/static/css/main.7061a5b6.css",
+    "main.js": "/static/js/main.9d04505f.js",
     "static/media/city.svg": "/static/media/city.9135f7c8d6cb20e64ee75963303696fb.svg",
     "static/media/philipp2.png": "/static/media/philipp2.b6b0d8ffeeff895e6c92.png",
     "static/media/Chinmay.jpg": "/static/media/Chinmay.e16eeddf621d7bf3ff21.jpg",
@@ -27,6 +27,7 @@
     "static/media/preview.svg": "/static/media/preview.b842a4562f4273ee26ab66a5894a2a58.svg",
     "static/media/location.svg": "/static/media/location.23c4dacc44a71cae388ace345711dc08.svg",
     "static/media/email.svg": "/static/media/email.5c2b12d8a7bdb8256d4728dce4d1f3bf.svg",
+    "static/media/journal.svg": "/static/media/journal.62041721e71697ed9d17ade14703ac51.svg",
     "static/media/arrow.svg": "/static/media/arrow.f162143c57b472107632bb0f180bce46.svg",
     "static/media/car.svg": "/static/media/car.97b9e3302f9cab7bfd54e5c31422d853.svg",
     "static/media/taxi.svg": "/static/media/taxi.b52d51605343fa4d0e64f4e1bb7154e3.svg",
@@ -37,11 +38,11 @@
     "static/media/papers.svg": "/static/media/papers.6fe52ff40cb61164aed12d6ab53e4ed7.svg",
     "static/media/close.svg": "/static/media/close.527d3ad3a9e6bb5d557be881a73008a1.svg",
     "index.html": "/index.html",
-    "main.6f9e5c93.css.map": "/static/css/main.6f9e5c93.css.map",
-    "main.a830198f.js.map": "/static/js/main.a830198f.js.map"
+    "main.7061a5b6.css.map": "/static/css/main.7061a5b6.css.map",
+    "main.9d04505f.js.map": "/static/js/main.9d04505f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f9e5c93.css",
-    "static/js/main.a830198f.js"
+    "static/css/main.7061a5b6.css",
+    "static/js/main.9d04505f.js"
   ]
 }
