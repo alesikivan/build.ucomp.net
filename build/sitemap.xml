@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://ucomp.net/</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/team</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/publications</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/collaborations</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/blogs</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/projects</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/contact-us</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ucomp.net/blog/</loc>
+	<lastmod>2024-01-03T18:40:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
