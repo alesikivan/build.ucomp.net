@@ -10,7 +10,7 @@ module.exports = {
   deploy : {
     production : {
       user : 'root',
-      host : ['45.93.136.98'],
+      host : ['77.37.49.238'],
       ref  : 'origin/main',
       repo : 'https://github.com/alesikivan/build.ucomp.net',
       path : '/root/apps/ucomp.net',
